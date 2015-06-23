@@ -46,3 +46,17 @@ XML Structure : if you  Pass area = 'country' & country_id = 'AGO'  // (Angola C
       &lt;/object&gt;
 &lt;/root&gt;
 </pre>
+
+XML Structure : if you  Pass area = 'country' & country_id = 'AGO' & state_id = '791' // (791 = 'Luanda' State)
+<pre>
+&lt;root&gt;
+      &lt;object&gt;
+             &lt;id&gt;2091&lt;/id&gt;
+             &lt;name&gt;Luanda&lt;/name&gt;
+      &lt;/object&gt;
+      &lt;object&gt;
+             &lt;id&gt;71676&lt;/id&gt;
+             &lt;name&gt;Talatona&lt;/name&gt;
+      &lt;/object&gt;
+&lt;/root&gt;
+</pre>
