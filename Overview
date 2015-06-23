@@ -1,8 +1,8 @@
-<h1>This Will Help You to Get All Country, State & City</h1><br />
-<h3>First Select Country Select Box - > Get All State Of That Selected Country</h3><br/>
-<h3>Second Select State Select Box - > Get All City Of That Selected State</h3><br /><br/>
+This Will Help You to Get All Country, State & City
+First Select Country Select Box - > Get All State Of That Selected Country
+Second Select State Select Box - > Get All City Of That Selected State
 
-Demo Link : <a href="http://ganeshlore.com/projects/country_state_city_select_box/">Demo</a><br/>
-XML API : http://ganeshlore.com/projects/country_state_city_select_box/country_state_city_api.php<br/>
+Demo Link : http://ganeshlore.com/projects/country_state_city_select_box
+XML API : http://ganeshlore.com/projects/country_state_city_select_box/country_state_city_api.php
 
 Coder : Ganesh Lore
